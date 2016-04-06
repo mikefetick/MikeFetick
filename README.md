@@ -10,5 +10,7 @@ Generally, this information is my work, organized into subfolders. The software 
 Disclaimer. The scope of the information presented does not represent the complete, depth and bradth of information that is required for any discpline involved in software development. My attempt to organize the topics and work are to promulgate a cultural, business perspective in the areas of interests, namely integration, innovation, productivity, profit, security, and best practices.
 
 Best Regards,
+
 Michael Fetick
+
 mikefetick@gmail.com
