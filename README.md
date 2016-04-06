@@ -1,5 +1,4 @@
-# MikeFetick
-Michael Fetick Repository of Great Software Development
+# MikeFetick - Repository of Great Software Development
 This is a brief description of what you will find here. 
 
 Goal. The goal is to support the development of great software by presenting my continual work on:
