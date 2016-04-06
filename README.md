@@ -1,5 +1,5 @@
-# MikeFetick - Repository of Great Software Development
-This is a brief description of what you will find here. 
+# MikeFetick - Great Software Development
+This is a brief description of what you will find in this repository. 
 
 Goal. The goal is to support the development of great software by presenting my continual work on:
  - Project Management of Information Systems,
